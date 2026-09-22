@@ -1,3 +1,5 @@
+> **About this fork:** This repository is an Android Engineers fork of [henrythe9th/AI-Crash-Course](https://github.com/henrythe9th/AI-Crash-Course). Original content and attribution are preserved. Check the upstream repository for its current content and contribution guidance.
+
 # AI-Crash-Course
 AI Crash Course to help busy builders catch up to the public frontier of AI research in 2 weeks
 
@@ -70,4 +72,4 @@ AI Crash Course to help busy builders catch up to the public frontier of AI rese
 
 **Obvious/easy papers (to get your feet wet if you're new to papers):**  
 [CoT (Chain of Thought)](https://arxiv.org/pdf/2201.11903) \- 2022  
-[SELF-REFINE: Iterative Refinement with Self-Feedback](https://arxiv.org/pdf/2303.17651) \- 2023  
+[SELF-REFINE: Iterative Refinement with Self-Feedback](https://arxiv.org/pdf/2303.17651) \- 2023
